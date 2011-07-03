@@ -1,0 +1,1 @@
+"Brickhouse Admin" is a custom Drupal sub-theme for use on the administrative side of Brickhouse Creative client websites. It is a sub-theme of "Seven", a Drupal core admin theme.
