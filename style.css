@@ -214,6 +214,9 @@ pre {
   text-align: center;
   width: 80px;
 }
+#site-name {
+	margin-top: 50px;
+}
 
 /**
  * Help.
